@@ -1,0 +1,32 @@
+h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+}
+body
+{
+    display: block;
+    margin: 90px;
+    text-align: center
+}
+#list ul
+{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    line-height: 30px;
+}
+button
+{
+    text-align: center;
+}
+.buttonn input[type="submit"]
+{
+text-align: center;
+border: none;
+padding: 3px;
+}
+

@@ -1,0 +1,64 @@
+#header1
+{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#bar ul
+{
+padding: 0;
+
+}
+#bar li
+{
+    display: inline;
+}
+#bar a
+{
+    padding-right: 20px;
+}
+#bar a:hover
+{
+    background-color: yellow;
+    color: blue;
+}
+#bar a:active
+{
+    color: red;
+}
+#sidebar
+{
+    background-color: salmon;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#aboutme
+{
+    color: rgb(255, 20, 184);
+    text-align: center;
+    text-transform: uppercase;
+}
+#container
+{
+    width: 100%;
+    margin: 0%;
+    overflow: hidden;
+    line-height: 30px;
+word-spacing: 2px;
+text-transform: uppercase;
+}
+footer
+{
+    text-transform: none;
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+body
+{
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
