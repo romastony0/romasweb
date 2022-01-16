@@ -1,0 +1,65 @@
+body
+{
+  background-color: black;
+  color: brown;
+  margin: 0;
+  line-height: 1.6em;
+  font-size: 16px;
+}
+.container
+
+{
+  width: 80%;
+margin: auto;
+overflow: hidden;
+}
+header
+{
+  background-color: coral;
+  color: white;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+padding-left: 20px;
+padding-right: 20px;
+}
+#side
+{
+  background-color: darkcyan;
+  color: chartreuse;
+}
+.list ul
+{
+padding: 0;
+list-style: none;
+
+}
+#side li
+{
+  display: inline;
+  
+}
+#side a
+{
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 19px;
+  padding-right: 20px;
+}
+#showcase
+{
+  text-align: center;
+  color: azure;
+  text-transform: uppercase;
+}
+#foot
+{
+  background-color: white;
+color:darkred;
+}
+#foot p
+{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
